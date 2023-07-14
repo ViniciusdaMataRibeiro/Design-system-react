@@ -1,0 +1,4 @@
+{
+    "extends": "@produtor-online/ts-config/react.json",
+    "include": ["src"]
+  }

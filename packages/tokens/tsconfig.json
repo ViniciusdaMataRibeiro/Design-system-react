@@ -1,0 +1,4 @@
+{
+  "extends": "@produtor-online/ts-config/base.json",
+  "include": ["src"]
+}
